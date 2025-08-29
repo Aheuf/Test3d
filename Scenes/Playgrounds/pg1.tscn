@@ -60,7 +60,7 @@ mesh = SubResource("SphereMesh_tndfi")
 
 [node name="Gemstone" type="Area3D" parent="."]
 script = ExtResource("1_7yldu")
-metadata/item_name = "turquoise"
+metadata/item_name = "aquamarine"
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="Gemstone"]
 visible = false
