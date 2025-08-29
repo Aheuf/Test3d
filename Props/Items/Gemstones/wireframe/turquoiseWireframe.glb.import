@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://42n7cnkyhtqc"
-path="res://.godot/imported/diamondWireframe.glb-8355539624a52679b15db31c0c3d3414.scn"
+uid="uid://c8pyp8r5gxyik"
+path="res://.godot/imported/turquoiseWireframe.glb-50c2aeed0676201f1adbc8adad33e987.scn"
 
 [deps]
 
-source_file="res://Props/Items/Gemstones/diamondWireframe.glb"
-dest_files=["res://.godot/imported/diamondWireframe.glb-8355539624a52679b15db31c0c3d3414.scn"]
+source_file="res://Props/Items/Gemstones/wireframe/turquoiseWireframe.glb"
+dest_files=["res://.godot/imported/turquoiseWireframe.glb-50c2aeed0676201f1adbc8adad33e987.scn"]
 
 [params]
 
